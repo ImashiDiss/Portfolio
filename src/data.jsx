@@ -15,7 +15,7 @@ export const skills = [
   {
     category: "Data Analytics & Business Analytics:",
     icon: <Brain className="w-6 h-6" />,
-    items: ["Python (pandas, NumPy, matplotlib, seaborn)", "SQL", "Excel", "Tableau", "Power BI", "Predictive Modeling", "Customer Segmentation", "Data Visualization", "Statistical Analysis"]
+    items: ["Python (pandas, NumPy, matplotlib, seaborn)", "SQL", "Excel", "Power BI", "Predictive Modeling", "Customer Segmentation", "Data Visualization", "Statistical Analysis"]
   },
   {
     category: "Databases & Tools",
